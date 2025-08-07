@@ -1,2 +1,2 @@
 # Panda
-sadman451.github.io.
+https://sadman451.github.io/Panda/
